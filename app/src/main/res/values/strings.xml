@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarcadorTento</string>
+    <string name="dialog_message">Deseja excluir?</string>
+    <string name="dialog_title">Excluir</string>
+    <string name="ok">Sim</string>
+    <string name="cancel">Cancelar</string>
+</resources>
